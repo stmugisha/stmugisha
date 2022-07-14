@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am Stephen Mugisha
+#### I am Stephen Mugisha
 
 - 😄 Pronouns: He/Him
-- :computer:  Software / Machine Learning Engineer Freelancer
+- :computer:  Freelance Software / Machine Learning Engineer
 - :computer: Competitive Data Scientist on Kaggle and Zindi
 - 🎓 Bsc. Software Engineering (Makerere University '22)
 
@@ -38,7 +38,7 @@ Anything related to MLOps, Computer Vision and Natural Language Processing. Teac
 
 #### Social
 
-You can contact me via email at mstevejeang@gmail.com or via social media
+You can contact me via email at mstevejean@gmail.com or via social media
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stephen-mugisha-b3025a159/)  [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/smugisha_) 
  
