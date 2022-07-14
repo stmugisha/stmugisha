@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Interests
 
-Anything related to MLOps, Computer Vision and Natural Language Processing. Teaching Machines to think. Music.
+Anything related to Machine Learning (Computer Vision, NLP, ...) and MLOps. Teaching Machines to think. Music.
 
 ### Technologies I use every day
 - Languages: Python, 
