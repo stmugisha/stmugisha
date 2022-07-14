@@ -25,8 +25,11 @@ Here are some ideas to get you started:
 
 ### Mission
 
-- :robot:  Help companies build their Artificial Intelligence products
+- :robot:  Help companies leverage Machine Learning in their products and decision making
+- :robot:  Build impactful machine learning driven software to solve hard problems
 - :brain:  Develop more efficient Machine Learning / Deep Learning algorithms
+- :brain:  Widen my knowledge base and sharpen my skills
+- :robot:  Get hired by one of the bigtech or top AI research companies
 
 ### Interests
 
