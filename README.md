@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Who am I ?
+### I am Stephen Mugisha
 
-- Stephen Mugisha
 - 😄 Pronouns: He/Him
 - :computer:  Software / Machine Learning Engineer Freelancer
 - :computer: Competitive Data Scientist on Kaggle and Zindi
-- :pencil2: Writer about Deep Learning and Machine Learning Infrastructure
 - 🎓 Bsc. Software Engineering (Makerere University '22)
 
 
