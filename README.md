@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Pronouns: He/Him
+- Pronouns: He/Him/His
 - :computer:  Freelance Software / Machine Learning Engineer
 - :computer: Competitive Data Scientist on Kaggle and Zindi
 - 🎓 Bsc. Software Engineering (Makerere University '22)
