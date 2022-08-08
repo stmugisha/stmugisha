@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 ### Interests
 
-Anything related to Machine Learning (Computer Vision, NLP, ...) and MLOps. Teaching Machines to think. Music.
+Anything related to Machine Learning(Computer Vision, NLP, MLOPs...) and Software Engineering. Sports. Music.
 
 ### Technologies I use every day
-- Languages: Python, 
+- Languages: Python, C++
 - Frameworks: Tensorflow, Pytorch, Docker, Flask, PostgreSQL
 
 #### Social
