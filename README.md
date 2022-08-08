@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 Anything related to Machine Learning(Computer Vision, NLP, MLOPs...) and Software Engineering. Sports. Music.
 
-### Technologies I use every day
+### Tech tools arsenal
 - Languages: Python, C++
 - Frameworks: Tensorflow, Pytorch, Docker, Flask, PostgreSQL
 
