@@ -34,7 +34,7 @@ Anything related to Machine Learning(Computer Vision, NLP, MLOPs...) and Softwar
 
 ### Tech tools arsenal
 - Languages: Python, C++
-- Frameworks: Tensorflow, Pytorch, Docker, Flask, PostgreSQL
+- Others: Tensorflow, Pytorch, Docker, Flask, PostgreSQL
 
 #### Social
 
