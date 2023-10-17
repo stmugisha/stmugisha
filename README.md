@@ -18,19 +18,12 @@ Here are some ideas to get you started:
 - :computer:  Freelance Software / Machine Learning Engineer
 - :computer: Competitive Data Scientist on Kaggle and Zindi
 - 🎓 Bsc. Software Engineering (Makerere University '22)
-
-
-### Mission
-
-- :robot:  Help companies leverage Machine Learning in their products and decision making
-- :robot:  Build impactful machine learning driven software to solve hard problems
-- :brain:  Develop more efficient Machine Learning / Deep Learning algorithms
-- :brain:  Widen my knowledge base and sharpen my skills
-- :robot:  Work for some of the big tech or top AI research companies 😄
+- :robot:  Aiming at building meaningful & impactful machine learning driven software solutions to solve real world problems.
 
 ### Interests
 
-Anything related to Machine Learning(Computer Vision, NLP, MLOPs...) and Software Engineering. Sports. Music.
+- :brain:  Efficient Machine Learning / Deep Learning algorithms.
+- Anything related to Machine Learning(Computer Vision, NLP, MLOPs...) and Software Engineering. Sports. Music.
 
 ### Tools
 - Languages: Python, C++
