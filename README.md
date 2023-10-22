@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :computer:  Freelance Software / Machine Learning Engineer
+- :computer:  Software / Machine Learning Engineer
 - :computer: Competitive Data Scientist on Kaggle and Zindi
 - 🎓 Bsc. Software Engineering (Makerere University '22)
 - :robot:  Aiming at building meaningful & impactful machine learning driven software solutions to solve real world problems.
