@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 - :computer:  Software / Machine Learning Engineer
 - :computer: Competitive Data Scientist
 - 🎓 Bsc. Software Engineering (Makerere University '22)
-- :robot:  Aiming at building meaningful & impactful machine learning driven software solutions to solve real world problems.
 
 ### Interests
 
 - :brain:  Efficient Machine Learning / Deep Learning algorithms.
 - Systems Software
-- Anything related to Machine Learning(Computer Vision, NLP, MLOPs...) and Software Engineering. Sports. Music.
+- Anything Machine Learning(Computer Vision, NLP, MLOPs...) and Software Engineering. Sports. Music.
 
 ### Tools
 - Languages: Python, C++
